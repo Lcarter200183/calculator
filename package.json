@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Lcarter200183/calculator#readme",
+  "bugs": {
+    "url": "https://github.com/Lcarter200183/calculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcarter200183/calculator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
